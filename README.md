@@ -22,7 +22,7 @@ When our team heard about the animals that were in danger each year, it became a
 
 ## Features of PetMe at a Glance
 
-<a href="https://55garima.github.io/PetMe_/"
+<a href="https://55garima.github.io/PetMe/"
 "><p align="center">The test site for the project can be found here.</p></a>
 
 
@@ -40,7 +40,7 @@ Additional features:
 ## View our Website:
 
 Click the link  to view our website!
-(https://55garima.github.io/PetMe_/)
+(https://55garima.github.io/PetMe/)
 
 ## Accomplishments:
 
