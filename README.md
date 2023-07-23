@@ -11,6 +11,14 @@ It has been estimated that more than one million adoptable dogs and cats are eut
 
 When our team heard about the animals that were in danger each year, it became a goal for us to help these speechless beings somehow. After brainstorming for a long time we came up with the idea of **PetMe**. We believe in the policy of saving animals and thus saving lives. Every life matters and we wish to be the part of the change that is making the same possible.
 
+<p align="center">Tech Stack:</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+
 
 ## Features of PetMe at a Glance
 
